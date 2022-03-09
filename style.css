@@ -13,3 +13,7 @@ button:hover {
   border: 5px solid lightblue;
   border-radius: 5px;
 }
+.credit{
+  margin-top:2px;
+  font-size: 12px;
+}
